@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590867271598",
+    "project_id": "fathima-7dba8",
+    "storage_bucket": "fathima-7dba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590867271598:android:dd314b3f5546df6b1c823f",
+        "android_client_info": {
+          "package_name": "com.example.project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm98JPmwwf2VRVZO-5i_oM6o8uCp-KuAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
